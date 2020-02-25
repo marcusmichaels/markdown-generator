@@ -1,20 +1,11 @@
 @import '/partials/variables';
 
 .preview-half {
-  margin-top: $header-height;
   padding:2rem;
   box-sizing: border-box;
-
-  &::after {
-    content: "RAW";
-    position: absolute;
-    top:0;
-    right:0;
-    border:1px solid black;
-    background-color: white;
-  }
-
+  
   @media (min-width: $breakpoint) {
+    margin-top: $header-height;
     width:50%;
     float: right;
     height:auto;

@@ -23,7 +23,7 @@
 }
 
 body {
-  padding-top: calc(50% + #{$header-height});
+  padding-top: calc(50vh + #{$header-height});
   @media (min-width: $breakpoint) {
     padding-top:0;
   }
