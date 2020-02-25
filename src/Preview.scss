@@ -1,0 +1,13 @@
+@import '/partials/variables';
+
+.preview-half {
+  margin-top: $header-height;
+  padding:2rem;
+  box-sizing: border-box;
+
+  @media (min-width: $breakpoint) {
+    width:50%;
+    float: right;
+    height:auto;
+  }
+}
