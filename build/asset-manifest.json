@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/markdown-generator/static/css/main.28aba5a6.chunk.css",
+    "main.css": "/markdown-generator/static/css/main.87981f56.chunk.css",
     "main.js": "/markdown-generator/static/js/main.e6ef5d4c.chunk.js",
     "main.js.map": "/markdown-generator/static/js/main.e6ef5d4c.chunk.js.map",
     "runtime-main.js": "/markdown-generator/static/js/runtime-main.08424359.js",
@@ -8,15 +8,15 @@
     "static/js/2.2d5404f0.chunk.js": "/markdown-generator/static/js/2.2d5404f0.chunk.js",
     "static/js/2.2d5404f0.chunk.js.map": "/markdown-generator/static/js/2.2d5404f0.chunk.js.map",
     "index.html": "/markdown-generator/index.html",
-    "precache-manifest.107d791df06a1f7a3a744e6c1bdfe547.js": "/markdown-generator/precache-manifest.107d791df06a1f7a3a744e6c1bdfe547.js",
+    "precache-manifest.5f612cbe50d3e4234af1b4fad174f30b.js": "/markdown-generator/precache-manifest.5f612cbe50d3e4234af1b4fad174f30b.js",
     "service-worker.js": "/markdown-generator/service-worker.js",
-    "static/css/main.28aba5a6.chunk.css.map": "/markdown-generator/static/css/main.28aba5a6.chunk.css.map",
+    "static/css/main.87981f56.chunk.css.map": "/markdown-generator/static/css/main.87981f56.chunk.css.map",
     "static/js/2.2d5404f0.chunk.js.LICENSE.txt": "/markdown-generator/static/js/2.2d5404f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.08424359.js",
     "static/js/2.2d5404f0.chunk.js",
-    "static/css/main.28aba5a6.chunk.css",
+    "static/css/main.87981f56.chunk.css",
     "static/js/main.e6ef5d4c.chunk.js"
   ]
 }
