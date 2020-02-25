@@ -1,13 +1,12 @@
 @import '/partials/variables';
 
 .editor-half {
-
   position: fixed;
   top: $header-height;
   width: 100%;
   height: 50%;
   margin:0;
-  padding:2rem;
+  padding:3rem;
   box-sizing: border-box;
   font-size: 1rem;
   border:none;
@@ -24,7 +23,7 @@
 }
 
 body {
-  padding-top:50%;
+  padding-top: calc(50% + #{$header-height});
   @media (min-width: $breakpoint) {
     padding-top:0;
   }
